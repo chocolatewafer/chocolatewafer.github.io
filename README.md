@@ -1,2 +1,2 @@
 # chocolatewafer.github.io
-root url to github pages
+This is the root url to github pages.
